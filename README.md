@@ -22,7 +22,10 @@
 ##Week 6 Callback-Functions
 <a href="https://github.com/jasonmhilliard/Callback-Functions" </a>
 
-##Week 7 Styels-and-Bootstrap
+##Week 7 Introduction-to-Testing-GITHUB-and-the-DOM
+<a href="https://github.com/jasonmhilliard/Introduction-to-Testing-GITHUB-and-the-DOM" </a>
+
+##Week 8 Styles-and-Bootstrap
 <a href="https://github.com/jasonmhilliard/Styles-and-Bootstrap" </a>
 
-##Week 8
+##Week 9
