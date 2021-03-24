@@ -16,4 +16,7 @@
 ##Week 4 Introduction-to-JavaScript
 <a href="https://github.com/jasonmhilliard/Introduction-to-JavaScript" </a>
 
-## Week5
+##Week 5 Functions-Array-Manipulation-and-Scope
+<a href="https://github.com/jasonmhilliard/Functions-Array-Manipulation-and-Scope" </a>
+
+##Week 6
