@@ -1,4 +1,4 @@
-#My GITHUB Portfolio
+# My GITHUB Portfolio
 <a href="https://github.com/jasonmhilliard" </a>
 
 #My Landing Page
@@ -10,4 +10,5 @@
 ##Week 2 Computational-Thinking
 <a href="https://github.com/jasonmhilliard/Computational-Thinking" </a>
 
-## Week 3 
+##Week 3 Mental-Model-of-Computing-Opeartions
+<a href="https://github.com/jasonmhilliard/Mental-Model-of-Computing-Operations" </a>
