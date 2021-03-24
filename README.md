@@ -22,4 +22,7 @@
 ##Week 6 Callback-Functions
 <a href="https://github.com/jasonmhilliard/Callback-Functions" </a>
 
-##Week 7 
+##Week 7 Styels-and-Bootstrap
+<a href="https://github.com/jasonmhilliard/Styles-and-Bootstrap" </a>
+
+##Week 8
