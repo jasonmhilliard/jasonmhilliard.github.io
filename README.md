@@ -19,4 +19,7 @@
 ##Week 5 Functions-Array-Manipulation-and-Scope
 <a href="https://github.com/jasonmhilliard/Functions-Array-Manipulation-and-Scope" </a>
 
-##Week 6
+##Week 6 Callback-Functions
+<a href="https://github.com/jasonmhilliard/Callback-Functions" </a>
+
+##Week 7 
