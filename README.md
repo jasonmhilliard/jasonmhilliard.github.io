@@ -12,3 +12,8 @@
 
 ##Week 3 Mental-Model-of-Computing-Opeartions
 <a href="https://github.com/jasonmhilliard/Mental-Model-of-Computing-Operations" </a>
+
+##Week 4 Introduction-to-JavaScript
+<a href="https://github.com/jasonmhilliard/Introduction-to-JavaScript" </a>
+
+## Week5
